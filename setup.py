@@ -62,6 +62,7 @@ setup(
         'pol2laz            = raster_tools.pol2laz:main',
         # rasterization
         'bag2tif            = raster_tools.bag2tif:main',
+        'water2tif          = raster_tools.water2tif:main',
         # ==============================================================
         # Scripts to be checked in python3
         # --------------------------------------------------------------
